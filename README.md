@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning **NextJS & Rust**
 
 - 📫 How to reach me **kunalagrawal@tutanota.com**
-- 👨‍💻 All of my projects are available at **https://kunalagrawal.vercel.app/projects**
-- 📝 I regularly write articles on **https://nyxcoder.hashnode.dev/**
-- 📄 Know about my experiences **https://kunalagrawal.vercel.app/cv**
+- 👨‍💻 All of my projects are available at **https://kunalagrawal.com/projects**
+- 📝 I regularly write articles on **https://blog.kunalagrawal.com/**
+- 📄 Know about my experiences **https://kunalagrawal.com/cv**
 
 <div> <a href="https://www.linkedin.com/in/kunalragrawal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/kunalagra" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
